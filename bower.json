@@ -2,7 +2,7 @@
   "name": "import-jquery",
   "version": "0.0.1",
   "dependencies": {
-    "jquery": "git+https://github.com/jquery/jquery.git",
+    "jquery": "~2.2.0",
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "private": true
